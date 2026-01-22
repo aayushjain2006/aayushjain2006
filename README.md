@@ -15,7 +15,8 @@
 - 💬 Ask me about **Java basics, Python fundamentals, and Git/GitHub**
 - 📫 How to reach me: **aayushjain2006@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy learning by building real projects**
+- ⚡ Fun fact: **⚡ Fun fact: **I enjoy learning by making and experimenting with interesting projects**
+
 
 ---
 
