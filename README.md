@@ -20,12 +20,14 @@
 
 ---
 
-## 🛠️ Skills
+## 🧰 Tech Stack
 
-- **Programming Languages:** Java, Python 
-- **Web Basics:** HTML, CSS 
-- **Tools:** Git, GitHub, VS Code 
-- **Core Subjects:** Data Structures & Algorithms, Computer Networks (Basics) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
