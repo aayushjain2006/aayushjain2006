@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aayush Mhaiskar
 
-🎓 Second-year Engineering Student  
+🎓 Third-year Engineering Student  
 💻 Aspiring Software Developer  
 🌱 Currently learning Java, DSA, and Mobile App Development  
 
